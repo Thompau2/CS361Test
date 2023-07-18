@@ -1,3 +1,1 @@
-# CS361Test
-Test for CS361 Setup
-THIS IS NOT ANY CODE BUT A TEST TO MAKE SURE PROPER FUCTIONING
+This is Version 1 of My CS361 Project - milestone 1
